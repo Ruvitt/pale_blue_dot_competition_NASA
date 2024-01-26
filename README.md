@@ -1,0 +1,1 @@
+# Script criado para o Pale BLue Dot Challenge da NASA
