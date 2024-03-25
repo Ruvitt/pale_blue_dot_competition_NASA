@@ -10,7 +10,9 @@ Our research highlights the increasing presence of microplastics in the ocean, w
 
 The study also incorporates cultural insights, such as the significance of seafood consumption in these regions and its implications on public health. Our findings are crucial for government agencies to formulate cleaning policies and raise public awareness about the risks associated with microplastic pollution.
 
-![Microplastics on the brazilian coasts](https://blog.ufes.br/revistauniversidade/files/2021/07/Tartaruga-verde-chelonia-mydas-que-morreu-devido-a-ingestao-de-plastico-Vitoria-ES-Foto-Robson-Santos-pesquisador-678x381.jpg)
+<p align="center">
+  ![Microplastics on the brazilian coasts](https://blog.ufes.br/revistauniversidade/files/2021/07/Tartaruga-verde-chelonia-mydas-que-morreu-devido-a-ingestao-de-plastico-Vitoria-ES-Foto-Robson-Santos-pesquisador-678x381.jpg)
+</p>
 
 ## Technologies
 
