@@ -1,6 +1,6 @@
 # Microplastic Concentration Study
 
-This repository hosts the Python script, related docs and visualization results of our study on microplastic concentrations along the Brazilian coast for the Pale Blue Dot Challenge.
+This repository hosts the Python script, related docs, and visualization results of our study on microplastic concentrations along the Brazilian coast for the Pale Blue Dot Challenge.
 
 ## Overview
 
@@ -10,19 +10,21 @@ Our research highlights the increasing presence of microplastics in the ocean, w
 
 The study also incorporates cultural insights, such as the significance of seafood consumption in these regions and its implications on public health. Our findings are crucial for government agencies to formulate cleaning policies and raise public awareness about the risks associated with microplastic pollution.
 
-![Microplastics on the brazilian coasts](https://blog.ufes.br/revistauniversidade/files/2021/07/Tartaruga-verde-chelonia-mydas-que-morreu-devido-a-ingestao-de-plastico-Vitoria-ES-Foto-Robson-Santos-pesquisador-678x381.jpg)
+<p align="center">
+  <img src="https://blog.ufes.br/revistauniversidade/files/2021/07/Tartaruga-verde-chelonia-mydas-que-morreu-devido-a-ingestao-de-plastico-Vitoria-ES-Foto-Robson-Santos-pesquisador-678x381.jpg" alt="Microplastics on the brazilian coasts"/>
+</p>
 
 ## Technologies
 
-- **Data Processing**: We used python with libraries such as Xarray for handling NetCDF4 files, NumPy for numerical analysis, and Matplotlib for plotting.
+- **Data Processing**: We used Python with libraries such as Xarray for handling NetCDF4 files, NumPy for numerical analysis, and Matplotlib for plotting.
 - **Geospatial Visualization**: Cartopy for mapping, with Matplotlib animation for creating dynamic visualizations.
-- **Data visualization**: Figma was used for the creation of a interactive dashboard to display our data visualizations.
+- **Data visualization**: Figma was used for the creation of an interactive dashboard to display our data visualizations.
 
 ## Access
 
 Anyone interested in accessing our interactive dashboard can simply click on the link below to explore our findings and visualizations:
 
-[Access the Interactive Dashboard](https://www.figma.com/proto/4c86b8QprAADUKkZKLPlVj/Dashboard?page-id=0%3A1&type=design&node-id=1-11&viewport=2118%2C331%2C0.58&t=brYHqO2GbJaj87Sb-1&scaling=contain&starting-point-node-id=1%3A11&mode=design)
+[Access our Interactive Dashboard](https://www.figma.com/proto/4c86b8QprAADUKkZKLPlVj/Dashboard?page-id=0%3A1&type=design&node-id=1-11&viewport=2118%2C331%2C0.58&t=brYHqO2GbJaj87Sb-1&scaling=contain&starting-point-node-id=1%3A11&mode=design)
 
 ## Contributions
 
